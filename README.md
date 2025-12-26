@@ -272,24 +272,7 @@ I'm a **Computer Science & Engineering** student at **Nirma University** (CGPA: 
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Its-your-rj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-your-rj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=ffffff" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <h3>⚡ Contribution Streak ⚡</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-your-rj&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="streak" />
-</div>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies 🏆</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Its-your-rj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
 
 ## 🎯 Focus Areas
 
